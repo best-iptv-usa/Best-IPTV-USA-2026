@@ -47,7 +47,7 @@ This guide reviews leading IPTV options from top providers in the USA, including
 
 | IPTV Service | Typical Monthly Price | Channel Count | Supported Devices | Free Trial | Rating |
 |---|---|---|---|---|---|
-| GreatestIPTV | Varies by plan | Large live TV + VOD library | Firestick, Android TV, Smart TVs, mobile, IPTV apps | Often advertised | ⭐ 4.6/5 |
+| [GreatestIPTV](https://www.greatestiptv.com/official/?utm_source=github) | Varies by plan | Large live TV + VOD library | Firestick, Android TV, Smart TVs, mobile, IPTV apps | Often advertised | ⭐ 4.6/5 |
 | KenIPTV | Varies by plan | Sports-heavy + premium channels | Firestick, Android, Smart TVs, mobile | Often advertised | ⭐ 4.5/5 |
 | StrimoIPTV | Varies by plan | Broad channel selection + VOD | Android TV, Firestick, mobile, desktop | Often advertised | ⭐ 4.4/5 |
 | PioneerSTV | Varies by plan | Live TV, movies, series, sports | Smart TVs, IPTV Smarters, Firestick, Android | Check provider | ⭐ 4.3/5 |
